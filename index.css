@@ -460,7 +460,7 @@ body {
 /* End Products */
 /* Srart Work Flow */
 .work-flow-cont .work-flow {
-  background-image: url(/images/bg_2.jpg);
+  background-image: url(images/bg_2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
